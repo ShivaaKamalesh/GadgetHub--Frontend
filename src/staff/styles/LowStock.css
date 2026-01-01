@@ -1,0 +1,20 @@
+/* Stock badges */
+.badge {
+  padding: 5px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+}
+
+.badge-danger {
+  background-color: #dc2626;
+}
+
+.badge-warning {
+  background-color: #f59e0b;
+}
+
+.badge-safe {
+  background-color: #16a34a;
+}

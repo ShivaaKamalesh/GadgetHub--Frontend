@@ -1,0 +1,55 @@
+.about-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.7;
+}
+
+.about-title {
+  margin-bottom: 15px;
+}
+
+.about-head p {
+  font-size: 16px;
+  color: #374151;
+}
+
+.about-list {
+  margin-top: 25px;
+  background: #f3f4f6;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.about-list h3 {
+  margin-bottom: 10px;
+}
+
+.about-list ul {
+  margin-left: 18px;
+}
+
+.about-list li {
+  margin-bottom: 6px;
+}
+
+.about-dev {
+  margin-top: 25px;
+}
+
+.about-contact {
+  margin-top: 25px;
+  background: #d08b90;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.about-contact h3 {
+  margin-bottom: 8px;
+}
+
+@media (max-width: 600px) {
+  .about-container {
+    padding: 12px;
+  }
+}
